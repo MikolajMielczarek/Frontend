@@ -78,7 +78,7 @@
   .header {
     padding: 80px;
     text-align: center;
-    background-image: url("assets/images/stars3.jpg");
+    background-image: url("/assets/images/stars3.jpg");
     color: white;
     font-size: larger;
     font-weight: bolder;
@@ -142,7 +142,7 @@
     font-size: larger;
     text-align: center;
     background-color:rgb(255, 255, 255);
-    background-image: url("assets/images/stars2.jpg");
+    background-image: url("/assets/images/stars2.jpg");
     padding: 20px;
   }
   .main h6 {
